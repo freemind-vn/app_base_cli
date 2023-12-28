@@ -1,0 +1,16 @@
+name: app_base_cli
+description: A starting point for Dart libraries or applications.
+version: 0.1.0
+homepage: https://dev.freemind.vn
+
+environment:
+  sdk: ^3.2.0
+
+# Add regular dependencies here.
+dependencies:
+  args: ^2.4.2
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
