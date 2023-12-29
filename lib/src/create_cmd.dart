@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:args/command_runner.dart';
 
-const gitRepoUrl = 'git@gitlab.com:free-mind/woocommerce/app.git';
-const tag = 'template';
+const gitRepoUrl = 'git@gitlab.com:free-mind/tools/app_base.git';
+const tag = 'dev';
 
 class CreateCommand extends Command {
   @override
